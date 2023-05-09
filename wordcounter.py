@@ -46,7 +46,7 @@ def main():
 
     #myBot = Bot('5826936170:AAFRs8vd3PXbCKTjIi1ge2xpoGs83Wlci5Q')
     #updater = Updater(myBot)
-    updater = Updater(token='5826936170:AAFRs8vd3PXbCKTjIi1ge2xpoGs83Wlci5Q', use_context=True)
+    updater = Updater(token='*********', use_context=True)
 
     # Get the dispatcher to register handlers
     dispatcher = updater.dispatcher
