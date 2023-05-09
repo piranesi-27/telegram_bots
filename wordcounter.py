@@ -44,7 +44,7 @@ def unsupported_message(update, context):
 def main():
     # Create the Updater and pass in the bot token
 
-    #myBot = Bot('5826936170:AAFRs8vd3PXbCKTjIi1ge2xpoGs83Wlci5Q')
+    #myBot = Bot('**********')
     #updater = Updater(myBot)
     updater = Updater(token='*********', use_context=True)
 
